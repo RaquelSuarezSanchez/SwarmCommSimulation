@@ -1,0 +1,7 @@
+{
+  "num_rovers": 6,
+  "offset_sv_x": -900.0,
+  "offset_sv_y": -700.0,
+  "area_size": 120.0,
+  "exploration_mode": 1
+}
